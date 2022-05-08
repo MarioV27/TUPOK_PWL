@@ -1,0 +1,26 @@
+.itera {
+    width: 150px;
+    height: 150px;
+    text-align: justify;
+}
+
+.kanan {
+    float: right;
+    text-align: justify;
+}
+
+header {
+    margin: 40px;
+}
+
+.navchild {
+    margin: 20px;
+    padding-left: 10px;
+    color: white;
+    font-weight: bold;
+}
+
+.navigasi {
+    background-color: bisque;
+    padding: 10px;
+}
